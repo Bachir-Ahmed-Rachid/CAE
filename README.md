@@ -5,5 +5,4 @@ This application provides an analytical accounting system for businesses, develo
 
 ![Capture](https://github.com/Bachir-Ahmed-Rachid/CAE/assets/99692801/218d7af6-4c3c-4923-8393-6b03b3726783)
 ![Capture5](https://github.com/Bachir-Ahmed-Rachid/CAE/assets/99692801/2f006529-feb5-41af-9bb7-5029eb5ed408)
-![Capture7](https://github.com/Bachir-Ahmed-Rachid/CAE/assets/99692801/f1fd6ad6-e969-48f5-87e9-681295f256d0)
-![Capture5](https://github.com/Bachir-Ahmed-Rachid/CAE/assets/99692801/6d29f8b9-2f2b-4821-8053-b56fd7454a15)
+
